@@ -1,0 +1,14 @@
+{
+"players": [
+  {
+    "name": "Anton",
+    "wins": 1,
+    "loses": 1
+  },
+  {
+    "name": "Igor",
+    "wins": 2,
+    "loses": 3
+  }
+]
+}
