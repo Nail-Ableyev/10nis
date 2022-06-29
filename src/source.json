@@ -1,14 +1,44 @@
 {
 "players": [
   {
+    "name": "Damir",
+    "wins": 0,
+    "loses": 0
+  },
+  {
     "name": "Anton",
     "wins": 1,
-    "loses": 1
+    "loses": 0
   },
   {
     "name": "Igor",
-    "wins": 2,
-    "loses": 3
+    "wins": 0,
+    "loses": 0
+  },
+  {
+    "name": "Sasha",
+    "wins": 0,
+    "loses": 0
+  },
+  {
+    "name": "Vlad",
+    "wins": 0,
+    "loses": 1
+  },
+  {
+    "name": "Dima",
+    "wins": 0,
+    "loses": 0
+  },
+  {
+    "name": "Artem",
+    "wins": 0,
+    "loses": 0
+  },
+  {
+    "name": "Nail",
+    "wins": 0,
+    "loses": 0
   }
 ]
 }

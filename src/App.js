@@ -1,24 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+import playerslist from './source.json'
+import Card from './Card'
+
+
 
 function App() {
+    const sorted = playerslist["players"].sort((a,b) => b.wins - a.wins);
+    const cards= sorted.map(item => <Card
+        key={item.name}
+        name={item.name}
+        wins={item.wins}
+        loses={item.loses} />)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <main>
+        <h1>Balls of Fury</h1>
+        <h2>June championship</h2>
+        {cards}
+    </main>
   );
 }
 
