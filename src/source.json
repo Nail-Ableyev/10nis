@@ -3,12 +3,12 @@
   {
     "name": "Damir",
     "wins": 0,
-    "loses": 0
+    "loses": 2
   },
   {
     "name": "Anton",
-    "wins": 1,
-    "loses": 0
+    "wins": 3,
+    "loses": 1
   },
   {
     "name": "Igor",
@@ -17,26 +17,31 @@
   },
   {
     "name": "Sasha",
-    "wins": 0,
-    "loses": 0
+    "wins": 1,
+    "loses": 2
   },
   {
     "name": "Vlad",
-    "wins": 0,
+    "wins": 1,
     "loses": 1
   },
   {
     "name": "Dima",
     "wins": 0,
-    "loses": 0
+    "loses": 1
   },
   {
-    "name": "Artem",
+    "name": "Artem N",
     "wins": 0,
     "loses": 0
   },
   {
     "name": "Nail",
+    "wins": 3,
+    "loses": 0
+  },
+  {
+    "name": "Artem D",
     "wins": 0,
     "loses": 0
   }
