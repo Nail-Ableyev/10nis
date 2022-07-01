@@ -18,11 +18,11 @@
   {
     "name": "Sasha",
     "wins": 1,
-    "loses": 2
+    "loses": 3
   },
   {
     "name": "Vlad",
-    "wins": 1,
+    "wins": 2,
     "loses": 1
   },
   {
@@ -43,7 +43,7 @@
   {
     "name": "Artem D",
     "wins": 0,
-    "loses": 0
+    "loses": 1
   }
 ]
 }
