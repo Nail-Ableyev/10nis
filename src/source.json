@@ -7,7 +7,7 @@
   },
   {
     "name": "Anton",
-    "wins": 3,
+    "wins": 4,
     "loses": 1
   },
   {
@@ -22,28 +22,28 @@
   },
   {
     "name": "Vlad",
-    "wins": 3,
-    "loses": 2
+    "wins": 4,
+    "loses": 3
   },
   {
     "name": "Dima",
     "wins": 1,
-    "loses": 1
+    "loses": 2
   },
   {
     "name": "Artem N",
-    "wins": 0,
-    "loses": 3
+    "wins": 1,
+    "loses": 5
   },
   {
     "name": "Nail",
-    "wins": 5,
+    "wins": 8,
     "loses": 0
   },
   {
     "name": "Artem D",
     "wins": 0,
-    "loses": 1
+    "loses": 3
   }
 ]
 }
