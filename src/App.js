@@ -10,7 +10,8 @@ function App() {
         key={item.name}
         name={item.name}
         wins={item.wins}
-        loses={item.loses} />)
+        loses={item.loses}
+        champ={item.champ} />)
   return (
     <main>
         <h1>Balls of Fury</h1>
