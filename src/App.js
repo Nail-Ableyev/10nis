@@ -15,7 +15,7 @@ function App() {
   return (
     <main>
         <h1>Balls of Fury</h1>
-        <h2>June championship</h2>
+        <h2>July/August championship</h2>
         {cards}
     </main>
   );
