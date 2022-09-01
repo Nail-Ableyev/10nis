@@ -3,37 +3,37 @@
   {
     "name": "Damir",
     "wins": 3,
-    "loses": 1,
+    "loses": 2,
     "champ": "May"
   },
   {
     "name": "Anton",
-    "wins": 1,
-    "loses": 2,
+    "wins": 3,
+    "loses": 3,
     "champ": null
   },
   {
     "name": "Igor",
-    "wins": 1,
-    "loses": 2,
+    "wins": 5,
+    "loses": 3,
     "champ": null
   },
   {
     "name": "Sasha",
-    "wins": 2,
+    "wins": 3,
     "loses": 4,
     "champ": null
   },
   {
     "name": "Vlad",
-    "wins": 3,
+    "wins": 7,
     "loses": 1,
     "champ": null
   },
   {
     "name": "Dima",
-    "wins": 0,
-    "loses": 1,
+    "wins": 1,
+    "loses": 4,
     "champ": null
   },
   {
@@ -51,7 +51,13 @@
   {
     "name": "Artem D",
     "wins": 0,
-    "loses": 1,
+    "loses": 3,
+    "champ": null
+  },
+  {
+    "name": "Egor",
+    "wins": 0,
+    "loses": 4,
     "champ": null
   }
 ]
