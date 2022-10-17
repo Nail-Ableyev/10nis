@@ -1,0 +1,76 @@
+html, body {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url("../public/back.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h1, h2 {
+    color: aliceblue;
+  }
+  
+  article {
+    position: relative;
+    max-width: 600px;
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 12px 8px;
+    margin: 5px;
+    border-radius: 7px;
+    box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.05);
+  }
+  
+  h3 {
+    font-size: 20px;
+  }
+  
+  p{
+    font-size: 16px;
+    color: #65676b;
+  }
+  
+  span {
+    font-weight: bold;
+    color: red;
+  }
+  
+  article div{
+    position: relative;
+    margin-right: 12px;
+  }
+  img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .champ{
+    border: 5px solid gold;
+  }
+  
+  b{
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 94px;
+    text-align: center;
+    color:white;
+    font-size: 12px;
+    background: gold;
+    border-radius: 10px;
+  
+  }
