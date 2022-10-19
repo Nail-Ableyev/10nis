@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-  background-image: url("./back.jpg");
+  background-image: url("../public/back.jpg");
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;

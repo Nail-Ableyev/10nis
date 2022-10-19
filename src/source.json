@@ -2,50 +2,50 @@
 "players": [
   {
     "name": "Damir",
-    "wins": 3,
-    "loses": 2,
+    "wins": 4,
+    "loses": 0,
     "champ": "May"
   },
   {
     "name": "Anton",
-    "wins": 3,
-    "loses": 3,
+    "wins": 0,
+    "loses": 0,
     "champ": null
   },
   {
     "name": "Igor",
-    "wins": 5,
+    "wins": 3,
     "loses": 3,
     "champ": null
   },
   {
     "name": "Sasha",
-    "wins": 3,
+    "wins": 0,
     "loses": 4,
     "champ": null
   },
   {
     "name": "Vlad",
-    "wins": 7,
-    "loses": 1,
+    "wins": 5,
+    "loses": 2,
     "champ": "August"
   },
   {
     "name": "Dima",
-    "wins": 1,
-    "loses": 4,
+    "wins": 0,
+    "loses": 0,
     "champ": null
   },
   {
     "name": "Artem N",
     "wins": 0,
-    "loses": 1,
+    "loses": 2,
     "champ": null
   },  
   {
     "name": "Nail",
-    "wins": 5,
-    "loses": 2,
+    "wins": 4,
+    "loses": 1,
     "champ": "June"
   },
   {
@@ -56,8 +56,8 @@
   },
   {
     "name": "Egor",
-    "wins": 0,
-    "loses": 4,
+    "wins": 1,
+    "loses": 2,
     "champ": null
   }
 ]
