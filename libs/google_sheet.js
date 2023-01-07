@@ -1,4 +1,5 @@
 import { google } from 'googleapis';
+// import {clientEmail, privKey, spreadSheet} from "./tt"
 export async function getDataFromList() {
   try {
     const target = ['https://www.googleapis.com/auth/spreadsheets.readonly'];
